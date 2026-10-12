@@ -1,0 +1,2 @@
+size,data_count,repetition,task_id,pc1_start,pc1_end,pc2_start,pc2_end,pc1_prime_count,pc2_prime_count,total_prime_count,sequential_prime_count,sequential_seconds,distributed_seconds,worker_compute_seconds,speedup,efficiency_percent,verified
+10000,9999,1,run-001,2,5001,5002,10000,669,560,1229,1229,0.003097600012551993,0.013910999987274408,0.002564,0.2226727061595597,11.133635307977984,True

@@ -1,0 +1,2 @@
+size,data_count,runs,prime_count,mean_sequential_seconds,mean_distributed_seconds,mean_worker_compute_seconds,mean_speedup,mean_efficiency_percent,all_verified
+10000,9999,1,1229,0.0043880000011995435,0.012942699948325753,0.003845,0.33903281531046914,16.951640765523457,True
